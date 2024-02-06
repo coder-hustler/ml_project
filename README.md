@@ -6,5 +6,4 @@ Following Classification algorithms have been used
 - Naive Bayes
 - Support Vector Machine
 
-
-  As can be seen in the associated jupyter notebook, Random Forest classifier gives best precision and accuracy
+As can be seen in the associated jupyter notebook, the Random Forest classifier gives the best precision and accuracy.
